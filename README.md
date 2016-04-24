@@ -1,4 +1,4 @@
-# datastatistics
+# Data Statistics R
 ### Statistical data analysis. A cheat sheet for statistical predictions and calculations
 
 Y = f(X) + e 
